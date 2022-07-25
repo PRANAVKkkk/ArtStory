@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT-ART STORY</title>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
+    <style>
+
+        .image{
+            height: 4rem;
+            width: 4rem;
+            margin: auto;
+            
+            
+        }
+
+        .heading{
+            margin:2rem;
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 3rem;
+            margin: auto;
+        }
+        
+    </style>
+</head>
+<body>
+    <section class="text-gray-600 body-font">
+        <div class="container px-5 py-24 mx-auto">
+          <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center">
+            <img class="image" src="Half-Life_PNG76.png" alt="error">
+            <h1 class="heading">ART-STORY</h1>
+            
+            <p class="leading-relaxed text-lg">
+                For as long as humanity has existed, art has been part of our lives. For many years, people have been creating and enjoying art.  It expresses emotions or expression of life. It is one such creation that enables interpretation of any kind.
+                
+                It is a skill that applies to music, painting, poetry, dance and more. Moreover, nature is no less than art. For instance, if nature creates something unique, it is also art. Artists use their artwork for passing along their feelings.
+                
+                Thus, art and artists bring value to society and have been doing so throughout history. Art gives us an innovative way to view the world or society around us. Most important thing is that it lets us interpret it on our own individual experiences and associations.
+                
+                Art is similar to live which has many definitions and examples. What is constant is that art is not perfect or does not revolve around perfection. It is something that continues growing and developing to express emotions, thoughts and human capacities.
+                
+                Art comes in many different forms which include audios, visuals and more. Audios comprise songs, music, poems and more whereas visuals include painting, photography, movies and more.
+                
+                You will notice that we consume a lot of audio art in the form of music, songs and more. It is because they help us to relax our mind. Moreover, it also has the ability to change our mood and brighten it up.
+                
+                After that, it also motivates us and strengthens our emotions. Poetries are audio arts that help the author express their feelings in writings. We also have music that requires musical instruments to create a piece of art.
+                
+                Other than that, visual arts help artists communicate with the viewer. It also allows the viewer to interpret the art in their own way. Thus, it invokes a variety of emotions among us. Thus, you see how essential art is for humankind.
+                
+                Without art, the world would be a dull place. Take the recent pandemic, for example, it was not the sports or news which kept us entertained but the artists. Their work of arts in the form of shows, songs, music and more added meaning to our boring lives.
+                
+                Therefore, art adds happiness and colours to our lives and save us from the boring monotony of daily life.
+                
+                All in all, art is universal and can be found everywhere. It is not only for people who exercise work art but for those who consume it. If there were no art, we wouldn’t have been able to see the beauty in things. In other words, art helps us feel relaxed and forget about our problems.
+                
+                </p>
+            <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-8 mb-6"></span>
+            <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm">Art-Story</h2>
+            <p class="text-gray-500">Senior Painter</p>
+          </div>
+        </div>
+      </section>
+    
+</body>
+</html>
